@@ -301,7 +301,7 @@ footer h5{
         margin-top: 7%;
         width: 100%;
         flex-direction: column !important;
-        height: 90%;
+        height: 95%;
         width: 90%;
         display: flex;
         padding: 0px;
@@ -399,6 +399,12 @@ footer h5{
         margin: 0 auto;
         letter-spacing: 1px;
     }
+    #container-skills p {
+        padding: 0;
+        padding-bottom: 20px;
+        width: 100% !important;
+        text-align: center;
+    }
     #projects p{
         padding: 5px;
         margin: 0 auto;
@@ -434,7 +440,7 @@ footer h5{
         gap: 10px;
         font-family: system-ui;
         font-weight: bold;
-        width: 90%;
+        width: 100%;
         margin: 0 auto;
         border-radius: 20px;
         filter: drop-shadow(2px 4px 6px #bebebe);
