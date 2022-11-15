@@ -29,9 +29,7 @@ html{
     gap: 20px;
 }
 .contato {
-    background-color: #f0f0f0;
     padding: 10px;
-    border-radius: 20px;
     width: 300px;
     height: 40px;
     display: flex;
@@ -40,9 +38,12 @@ html{
     align-items: center;
     margin: 0 auto;
     font-style: oblique;
+    font-family: system-ui;
+    border-radius: 0.5rem;
+    background-color: rgb(33, 33, 151);
 }
 .contato a {
-    color: black;
+    color: #fff;
     height: 100%;
     width: 100%;
     display: flex;
